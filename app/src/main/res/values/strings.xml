@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Appgrade</string>
+    <string name="str_textView_title">Register</string>
+    <string name="str_editText_user">Username</string>
+    <string name="str_et_pass">Password</string>
+    <string name="str_tv_gender">Gender</string>
+    <string name="str_rb_male">Male</string>
+    <string name="str_rb_female">Female</string>
+    <string name="str_rb_other">Other</string>
+    <string name="str_agree">Switch</string>
+    <string name="str_swi_agree"> I agree to the terms of service</string>
+    <string name="str_btn_confirm">Confirm</string>
+
+</resources>
